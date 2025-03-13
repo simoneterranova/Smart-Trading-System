@@ -1,0 +1,6 @@
+{
+    "max_capacity_per_prosumer": 25,
+    "max_capacity_per_consumer": 15,
+    "max_price_per_kwh": 0.35
+  }
+  
